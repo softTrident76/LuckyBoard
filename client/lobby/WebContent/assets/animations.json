@@ -1,0 +1,72 @@
+{
+  "anims": [
+    {
+      "key": "walking_left",
+      "frameRate": 10,
+      "repeat": -1,
+      "skipMissedFrames": false,
+      "frames": [
+        {
+          "key": "3pairs",
+          "frame": "lwalk_00"
+        },
+        {
+          "key": "3pairs",
+          "frame": "lwalk_01"
+        }
+      ]
+    },
+    {
+      "key": "walking_right",
+      "frameRate": 10,
+      "repeat": -1,
+      "skipMissedFrames": false,
+      "frames": [
+        {
+          "key": "3pairs",
+          "frame": "rwalk_00"
+        },
+        {
+          "key": "3pairs",
+          "frame": "rwalk_01"
+        }
+      ]
+    },
+    {
+      "key": "walking_up",
+      "frameRate": 10,
+      "repeat": -1,
+      "skipMissedFrames": false,
+      "frames": [
+        {
+          "key": "3pairs",
+          "frame": "uwalk_00"
+        },
+        {
+          "key": "3pairs",
+          "frame": "uwalk_01"
+        }
+      ]
+    },
+    {
+      "key": "walking_down",
+      "frameRate": 10,
+      "repeat": -1,
+      "skipMissedFrames": false,
+      "frames": [
+        {
+          "key": "3pairs",
+          "frame": "dwalk_00"
+        },
+        {
+          "key": "3pairs",
+          "frame": "dwalk_01"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}

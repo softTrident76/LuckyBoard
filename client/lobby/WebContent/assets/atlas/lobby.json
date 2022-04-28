@@ -1,0 +1,52 @@
+{"frames": {
+
+"btn_game_type.png":
+{
+	"frame": {"x":2,"y":73,"w":184,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":61},
+	"sourceSize": {"w":184,"h":61}
+},
+"btn_room_cost.png":
+{
+	"frame": {"x":2,"y":197,"w":80,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":47},
+	"sourceSize": {"w":80,"h":47}
+},
+"btn_room_create.png":
+{
+	"frame": {"x":2,"y":2,"w":211,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":69},
+	"sourceSize": {"w":211,"h":69}
+},
+"btn_search.png":
+{
+	"frame": {"x":2,"y":136,"w":138,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":59},
+	"sourceSize": {"w":138,"h":59}
+},
+"position_director.png":
+{
+	"frame": {"x":215,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":0,"h":0},
+	"sourceSize": {"w":56,"h":66}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "lobby.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:36c7210d56a16280727fa2cf7e7a6633$"
+}
+}

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="218c20a6-691f-48e1-b900-a3bde1a2b8b6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-681776440">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="4" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="env" value="2" />
+          <entry key="js" value="84" />
+          <entry key="log" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="84" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="env" value="15" />
+          <entry key="js" value="40613" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="40613" />
+          <entry key="PLAIN_TEXT" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="342111778">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="546" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="546" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="new_poker3api" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/socket/proc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/consts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/socket/procPoker3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/socket/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/common/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5797">
+              <caret line="341" lean-forward="true" selection-start-line="341" selection-end-line="341" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/common/spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/poker3/play_log.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/poker3/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13311">
+              <caret line="783" column="82" selection-start-line="783" selection-start-column="82" selection-end-line="783" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/poker3/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/socket/listener/listenerPoker3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2533">
+              <caret line="149" column="6" selection-start-line="149" selection-start-column="6" selection-end-line="149" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.room_id</find>
+      <find>.room_id =</find>
+      <find>remove_gamers_from_room</find>
+      <find>update_tournament_process</find>
+      <find>new date</find>
+      <find>end_round</find>
+      <find>sql.</find>
+      <find>check_new</find>
+      <find>new Date</find>
+      <find>formatDate</find>
+      <find>util</find>
+      <find>date</find>
+      <find>update</find>
+      <find>check_</find>
+      <find>onConnect</find>
+      <find>observer</find>
+      <find>join-room</find>
+      <find>create_token</find>
+      <find>generateT</find>
+      <find>util.</find>
+      <find>disconnect: server namespace disconnect</find>
+      <find>namespace disconnect</find>
+      <find>initGame</find>
+      <find>sys_token</find>
+      <find>player-Info</find>
+      <find>player-info</find>
+      <find>getPlayerInfo</find>
+      <find>prior map_id was READ</find>
+      <find>disconnect</find>
+      <find>]&gt; disconnect</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>give_init_cards</replace>
+      <replace>.PLAYER_IN_HOUSE</replace>
+      <replace>ip_address:</replace>
+      <replace>ip_address3:</replace>
+      <replace>.ip_address</replace>
+      <replace>.level</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\models\3pair</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/models/play_log.js" />
+        <option value="$PROJECT_DIR$/app/models/game.js" />
+        <option value="$PROJECT_DIR$/app/models/room.js" />
+        <option value="$PROJECT_DIR$/app/common/util.js" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/socket/mapProc.js" />
+        <option value="$PROJECT_DIR$/app/models/map.js" />
+        <option value="$PROJECT_DIR$/app/models/3pair/room.js" />
+        <option value="$PROJECT_DIR$/app/models/map/game.js" />
+        <option value="$PROJECT_DIR$/app/models/map/map.js" />
+        <option value="$PROJECT_DIR$/app/index.js" />
+        <option value="$PROJECT_DIR$/app/socket/procMap.js" />
+        <option value="$PROJECT_DIR$/config/consts.js" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/app/models/player.js" />
+        <option value="$PROJECT_DIR$/app/socket/listener/listenerPoker3.js" />
+        <option value="$PROJECT_DIR$/app/models/poker3/play_log.js" />
+        <option value="$PROJECT_DIR$/app/models/poker3/player.js" />
+        <option value="$PROJECT_DIR$/app/models/poker3/room.js" />
+        <option value="$PROJECT_DIR$/app/models/poker3/game.js" />
+        <option value="$PROJECT_DIR$/app/socket/procPoker3.js" />
+        <option value="$PROJECT_DIR$/app/socket/proc.js" />
+        <option value="$PROJECT_DIR$/app/socket/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1170" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new_poker3api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_poker3api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_poker3api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_poker3api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_poker3api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_poker3api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_poker3api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_poker3api" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\models" />
+      <recent name="C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\socket" />
+      <recent name="C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\socket\listener" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\models\poker3" />
+      <recent name="C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\models" />
+      <recent name="C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\models\3pair" />
+      <recent name="C:\work\bujh\works\98_jaeryon_game\proj\jaeryon_roomgame\3PairCard\server\poker3api\new_poker3api\app\3pair" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" isV8Legacy="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="inspect" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="218c20a6-691f-48e1-b900-a3bde1a2b8b6" name="Default Changelist" comment="" />
+      <created>1635006661021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635006661021</updated>
+      <workItem from="1635006668195" duration="1933000" />
+      <workItem from="1635010433048" duration="1809000" />
+      <workItem from="1635013174459" duration="547000" />
+      <workItem from="1635014829259" duration="29049000" />
+      <workItem from="1635269732496" duration="6212000" />
+      <workItem from="1635377778046" duration="1741000" />
+      <workItem from="1635387669489" duration="6633000" />
+      <workItem from="1635635734416" duration="46347000" />
+      <workItem from="1636166369808" duration="25215000" />
+      <workItem from="1636593493749" duration="46878000" />
+      <workItem from="1637199996320" duration="5000" />
+      <workItem from="1637200010049" duration="47000" />
+      <workItem from="1637200844539" duration="35388000" />
+      <workItem from="1637359283044" duration="14040000" />
+      <workItem from="1637428175284" duration="19524000" />
+      <workItem from="1637608519935" duration="13971000" />
+      <workItem from="1637780445143" duration="23822000" />
+      <workItem from="1637874180938" duration="6280000" />
+      <workItem from="1637975552408" duration="19000" />
+      <workItem from="1637975912435" duration="113888000" />
+      <workItem from="1638821181296" duration="5519000" />
+      <workItem from="1639085255810" duration="37768000" />
+      <workItem from="1639426557596" duration="62739000" />
+      <workItem from="1639624608051" duration="6000" />
+      <workItem from="1639682429886" duration="69220000" />
+      <workItem from="1640156292658" duration="8607000" />
+      <workItem from="1640200817528" duration="7914000" />
+      <workItem from="1640412486626" duration="2206000" />
+      <workItem from="1640420521078" duration="2315000" />
+      <workItem from="1640454589515" duration="1971000" />
+      <workItem from="1640464930735" duration="7636000" />
+      <workItem from="1641161387977" duration="1515000" />
+      <workItem from="1641322208974" duration="2244000" />
+      <workItem from="1641505329411" duration="7866000" />
+      <workItem from="1641924196283" duration="8532000" />
+      <workItem from="1642036387204" duration="9467000" />
+      <workItem from="1642199839760" duration="11941000" />
+      <workItem from="1642213677777" duration="6125000" />
+      <workItem from="1642448585545" duration="7985000" />
+      <workItem from="1642808916591" duration="8108000" />
+      <workItem from="1642888667442" duration="46000" />
+      <workItem from="1642889692251" duration="29000" />
+      <workItem from="1642890149429" duration="1935000" />
+      <workItem from="1643512169148" duration="1076000" />
+      <workItem from="1643525198090" duration="20061000" />
+      <workItem from="1643916951773" duration="777000" />
+      <workItem from="1644010229163" duration="3647000" />
+      <workItem from="1644376713244" duration="1937000" />
+      <workItem from="1644563188797" duration="1663000" />
+      <workItem from="1644650694701" duration="3836000" />
+      <workItem from="1644798919919" duration="9584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="707623000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.520339" side_tool="true" weight="0.11854584" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5146805" side_tool="true" weight="0.1298518" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.48531953" visible="true" weight="0.12888302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3018868" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2559301" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2184769" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/models/poker3/room.js</url>
+          <line>1335</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/socket/proc.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="dart-exception">
+          <dependency id="0" />
+          <properties />
+        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>playerModel.playerInfoList[17]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>playerModel.playerInfoList[&quot;17&quot;]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>playerModel.playerInfoList[&quot;[[StableObjectId]]&quot;]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cards_house.slice(4, 8)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cards_house.slice(0, 4)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cards_house.slice(8, 12)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cards_house.slice(8, 14)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cards_house.slice(1, 5)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cards_house.slice(1, 2)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/common/iox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/common/sql.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/logs/poker3-20211021-20.log" />
+    <entry file="file://$PROJECT_DIR$/app/logs/poker3-20211023-10.log" />
+    <entry file="file://$PROJECT_DIR$/app/logs/poker3-20211105-16.log" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/socket/mapProc.js" />
+    <entry file="file://$PROJECT_DIR$/app/socket/houseProc.js" />
+    <entry file="file://$PROJECT_DIR$/app/socket/roomProc.js" />
+    <entry file="file://$PROJECT_DIR$/app/socket/procRoom.js" />
+    <entry file="file://$PROJECT_DIR$/app/common/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="146" column="35" selection-start-line="146" selection-start-column="35" selection-end-line="146" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/map.js" />
+    <entry file="file://$PROJECT_DIR$/app/socket/mms.js" />
+    <entry file="file://$PROJECT_DIR$/app/socket/proc_.js" />
+    <entry file="file://$PROJECT_DIR$/app/models/map/play_log.js" />
+    <entry file="file://$PROJECT_DIR$/app/models/map/game.js" />
+    <entry file="file://$PROJECT_DIR$/app/models/map/map.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/Connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/lib/socket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/socket/procMap.js" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../../99_jaeryon_website/jaeryon_website/public/game/3pairs/board/assets/scene/board.js" />
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="42" lean-forward="true" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/common/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/poker3/room.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23188">
+          <caret line="1364" column="53" selection-start-line="1364" selection-start-column="53" selection-end-line="1364" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/consts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/common/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5797">
+          <caret line="341" lean-forward="true" selection-start-line="341" selection-end-line="341" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/common/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/poker3/play_log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/poker3/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13311">
+          <caret line="783" column="82" selection-start-line="783" selection-start-column="82" selection-end-line="783" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/poker3/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/socket/listener/listenerPoker3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="6" selection-start-line="149" selection-start-column="6" selection-end-line="149" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/socket/procPoker3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/socket/proc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/socket/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

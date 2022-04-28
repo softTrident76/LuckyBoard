@@ -1,0 +1,78 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.1",
+  "-version": 1,
+  "displayList": {
+    "-id": "8d715559-399d-42e9-9525-4a1dc0336b31",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "207663dd-5d4c-42b0-a158-76744223f9d3",
+        "-type": "Image",
+        "children": [],
+        "variableName": "background",
+        "variableField": false,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "background",
+        "textureFrame": "background"
+      },
+      {
+        "-id": "bddb13c3-75d8-4364-8590-e97ac43d7742",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "user_info_panel",
+        "variableField": false,
+        "x": 211.51806640625,
+        "y": 83.01570129394531,
+        "scaleX": 7.964382648468018,
+        "scaleY": 2.8238186836242676,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "lobby",
+        "textureFrame": "position_director.png"
+      },
+      {
+        "-id": "4f5f6748-461a-46f0-b28b-298e98a005e8",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "room_panel",
+        "variableField": false,
+        "x": 603.9308471679688,
+        "y": 318.94482421875,
+        "scaleX": 12.564313888549805,
+        "scaleY": 6.143167495727539,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "lobby",
+        "textureFrame": "position_director.png"
+      },
+      {
+        "-id": "5bd5e526-607b-49b6-bb05-ada795c6b33e",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "search_panel",
+        "variableField": false,
+        "x": 856,
+        "y": 29,
+        "scaleX": 12.517800331115723,
+        "scaleY": 2.2730000019073486,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "lobby",
+        "textureFrame": "position_director.png"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "89eecac1-e75a-4225-a3ba-7ac59572410e",
+    "-type": "Groups",
+    "children": []
+  },
+  "snapWidth": 211,
+  "snapHeight": 69,
+  "borderWidth": 1600,
+  "borderHeight": 768,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "lobby"
+}

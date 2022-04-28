@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name=viewport content="width=device-width, initial-scale=1">
+
+	<title>대기실</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css" />
+	
+	<script src="lib/phaser.js"></script>
+	<script src="lib/jquery.min.js"></script>
+	<script src="lib/bootstrap.min.js"></script>
+	<script src="main.js"></script>	
+	<script src="assets/scene/eventPhaserDispatcher.js"></script>	
+	<script src="assets/scene/domPhaserElement.js"></script>	
+	
+	<style>
+		body {
+			background: black;
+			margin: 0;
+			padding: 0;
+			text-align:center
+		}
+		
+		.roomlist_panel {
+			overflow: auto;
+		}
+		
+		.roomlist_panel ul {
+			display: inline-block;
+		    list-style: none;
+		    margin: 4px 10px 0 0;
+		    vertical-align: middle;
+		}
+		
+		.roomlist_panel ul li {
+			position: relative;
+		    margin-left: 10px;
+		    margin-right: 10px;
+		    display: inline-block;
+		    width: 40%;
+		}
+		
+		.panel {
+			background: transparent;    
+			box-shadow: none;
+			border: none;
+		}
+		.panel-featured-top {
+			border-top: 3px solid #33353f;
+		}
+		.panel-featured-primary {
+			border-color: #0088cc;
+		}
+		.panel-body {
+			background: #fdfdfd;
+			box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+			border-radius: 5px;
+		}	
+		.bg-primary {
+			background: #0088cc;
+		}
+		.player-avatar {
+			width: 30%;
+			display: inline-block;
+		}
+		.player-avatar img {
+			width: 60px;
+    		height: 60px;
+		}
+		.room-footer {
+			margin-top: 15px;
+			display: flex;
+    		justify-content: space-around;
+		}
+		.romm-number-text {
+			color: red;
+		    font-size: 12pt;
+		    font-weight: bold;
+		    margin-bottom: 10px;
+		}
+		
+	</style>
+</head>
+
+<body>
+	<div id="lobby"></div>	
+</body>
+<script>
+	function resize_handler() {
+		var evt = new CustomEvent('onCanvasResize', { detail: true,  bubbles: true, cancelable: true, composed: true });
+		document.dispatchEvent(evt);	
+		console.log('resize'); 
+	}
+	
+	$(window).resize(function() {	
+		setTimeout(resize_handler, 100);	 
+	});
+	
+</script>
+</html>

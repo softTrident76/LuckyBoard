@@ -1,0 +1,1 @@
+nodemon ./app/index.js

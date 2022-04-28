@@ -1,0 +1,90 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.1",
+  "-version": 1,
+  "displayList": {
+    "-id": "8d715559-399d-42e9-9525-4a1dc0336b31",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "fbb538a5-04c3-4f8a-a59f-82592b6efedc",
+        "-type": "Image",
+        "children": [],
+        "variableName": "background",
+        "variableField": true,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "background",
+        "textureFrame": "background"
+      },
+      {
+        "-id": "80ea13c7-af57-4da8-b12d-19eccac72ae7",
+        "-type": "Image",
+        "children": [],
+        "variableName": "winBackImage",
+        "variableField": true,
+        "visible": false,
+        "x": 683,
+        "y": 350,
+        "textureKey": "images",
+        "textureFrame": "win"
+      },
+      {
+        "-id": "a823e094-76bf-44c1-83c3-d5399d87a1cb",
+        "-type": "Image",
+        "children": [],
+        "variableName": "loseBackImage",
+        "variableField": true,
+        "visible": false,
+        "x": 683,
+        "y": 350,
+        "textureKey": "images",
+        "textureFrame": "lose"
+      },
+      {
+        "-id": "dd900938-a2ab-4efa-aab7-fbdd9b931089",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "winImage",
+        "variableField": true,
+        "x": 683,
+        "y": 350,
+        "textureKey": "images",
+        "textureFrame": "win",
+        "autoPlayAnimKey": "win"
+      },
+      {
+        "-id": "bff29670-8243-4cb2-8b9d-6c0df990fa0b",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "loseImage",
+        "variableField": true,
+        "x": 688,
+        "y": 352,
+        "textureKey": "images",
+        "textureFrame": "lose",
+        "autoPlayAnimKey": "lose"
+      },
+      {
+        "-id": "b48d6ae1-6c7a-44c8-9fad-331e9e2cab15",
+        "-type": "Image",
+        "children": [],
+        "variableName": "clockimage",
+        "variableField": true,
+        "textureKey": "images",
+        "textureFrame": "clock"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "89eecac1-e75a-4225-a3ba-7ac59572410e",
+    "-type": "Groups",
+    "children": []
+  },
+  "snapEnabled": true,
+  "borderWidth": 1366,
+  "borderHeight": 768,
+  "autoLoadAssets": false,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "board"
+}

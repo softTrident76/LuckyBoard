@@ -1,0 +1,45 @@
+<style>	
+	.search-panel {
+		flex-direction: column !important;
+		justify-content: space-around;
+	}
+
+	.search-panel ul {
+		display: flex;
+		list-style: none;
+		margin: 4px 10px 0 0;		
+		vertical-align: middle;
+	}
+
+	.search-panel ul li {
+		float: left;
+		position: relative;
+		margin-left: 10px;
+		margin-right: 10px;
+		flex: 1.0;
+	}
+
+</style>
+<div class="panel-container search-panel">
+	<div class="form-group filter-panel">
+		<div class="col-md-3">
+			<select class="form-control filter-type">
+				<option value="username">사용자식별자</option>
+				<option value="roomnumber">방번호</option>
+			</select>
+		</div>
+		<div class="col-md-9 input-group">
+			<input type="text" class="form-control input-keyword" placeholder="검색하려는 문자를 입력하십시오.">
+			<a class="input-group-addon btn-warning btn-keyword">검색</a>
+		</div>
+	</div>
+	<div class="cost-panel">
+		<ul>
+			<!-- <li><a class="btn btn-success btn-room-cost">50</a></li>
+			<li><a class="btn btn-success btn-room-cost">100</a></li>
+			<li><a class="btn btn-warning btn-room-cost">500</a></li>
+			<li><a class="btn btn-warning btn-room-cost">1000</a></li>
+			<li><a class="btn btn-danger btn-room-cost">5000</a></li> -->
+		</ul>
+	</div>
+</div>

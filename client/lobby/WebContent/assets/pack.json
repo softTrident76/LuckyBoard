@@ -1,0 +1,29 @@
+{
+  "section1": {"files": [
+    {
+      "type": "sceneFile",
+      "key": "lobby",
+      "url": "assets/scene/lobby.js"
+    },
+    {
+      "type": "image",
+      "key": "background",
+      "url": "assets/image/background.jpg",
+      "normalMap": ""
+    },
+    {
+      "type": "atlas",
+      "key": "lobby",
+      "textureURL": "assets/atlas/lobby.png",
+      "atlasURL": "assets/atlas/lobby.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    }
+  ]},
+  "meta": {
+    "generated": "1634510406252",
+    "app": "Phaser Editor",
+    "url": "https://phasereditor2d.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2018"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "anims": [
+    {
+      "key": "lose",
+      "frameRate": 5.454545454545454,
+      "repeat": -1,
+      "frames": [
+        {
+          "key": "loseImage",
+          "frame": "0"
+        },
+        {
+          "key": "loseImage",
+          "frame": "1"
+        },
+		{
+          "key": "loseImage",
+          "frame": "2"
+        },
+		{
+          "key": "loseImage",
+          "frame": "3"
+        },
+		{
+          "key": "loseImage",
+          "frame": "4"
+        },
+		{
+          "key": "loseImage",
+          "frame": "5"
+        },
+		{
+          "key": "loseImage",
+          "frame": "6"
+        },
+		{
+          "key": "loseImage",
+          "frame": "7"
+        },
+		{
+          "key": "loseImage",
+          "frame": "8"
+        }
+      ]
+    },
+    {
+      "key": "win",
+      "frameRate": 1.5384615384615383,
+      "repeat": -1,
+      "frames": [
+        {
+          "key": "winImage",
+          "frame": "0"
+        },
+        {
+          "key": "winImage",
+          "frame": "1"
+        },
+		{
+          "key": "winImage",
+          "frame": "2"
+        },
+		{
+          "key": "winImage",
+          "frame": "3"
+        },
+		{
+          "key": "winImage",
+          "frame": "4"
+        },
+		{
+          "key": "winImage",
+          "frame": "5"
+        },
+		{
+          "key": "winImage",
+          "frame": "6"
+        },
+		{
+          "key": "winImage",
+          "frame": "7"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}

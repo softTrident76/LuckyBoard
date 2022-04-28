@@ -1,0 +1,120 @@
+{
+  "section1": {"files": [
+    {
+      "type": "sceneFile",
+      "key": "board",
+      "url": "assets/scene/board.js"
+    },
+    {
+      "type": "image",
+      "key": "avatar0",
+      "url": "assets/image/avatar0.png",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "background",
+      "url": "assets/image/background.jpg",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "gold_star",
+      "url": "assets/image/gold_star.png",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "illegal",
+      "url": "assets/image/illegal.png",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "jewel_star",
+      "url": "assets/image/jewel_star.png",
+      "normalMap": ""
+    },
+    {
+      "type": "atlas",
+      "key": "card",
+      "textureURL": "assets/atlas/card.png",
+      "atlasURL": "assets/atlas/card.json",
+      "format": "TEXTURE_ATLAS_JSON_ARRAY"
+    },
+    {
+      "type": "atlas",
+      "key": "emoticons",
+      "textureURL": "assets/atlas/emoticons.png",
+      "atlasURL": "assets/atlas/emoticons.json",
+      "format": "TEXTURE_ATLAS_JSON_ARRAY"
+    },
+    {
+      "type": "atlas",
+      "key": "emoticonv1",
+      "textureURL": "assets/atlas/emoticonv1.png",
+      "atlasURL": "assets/atlas/emoticonv1.json",
+      "format": "TEXTURE_ATLAS_JSON_ARRAY"
+    },
+    {
+      "type": "atlas",
+      "key": "images",
+      "textureURL": "assets/atlas/images.png",
+      "atlasURL": "assets/atlas/images.json",
+      "format": "TEXTURE_ATLAS_JSON_ARRAY"
+    },
+    {
+      "type": "spritesheet",
+      "key": "loseImage",
+      "url": "assets/atlas/ani_lose.png",
+      "frameConfig": {
+        "frameWidth": 225,
+        "frameHeight": 85,
+        "endFrame": 8,
+        "margin": 0,
+        "spacing": 0
+      }
+    },
+    {
+      "type": "spritesheet",
+      "key": "winImage",
+      "url": "assets/atlas/ani_win.png",
+      "frameConfig": {
+        "frameWidth": 360,
+        "frameHeight": 270,
+        "endFrame": 7,
+        "margin": 0,
+        "spacing": 0
+      }
+    },
+    {
+      "type": "bitmapFont",
+      "key": "paidJewelFont",
+      "textureURL": "assets/atlas/font.png",
+      "fontDataURL": "assets/atlas/redFont.fnt"
+    },
+    {
+      "type": "bitmapFont",
+      "key": "freeJewelFont",
+      "textureURL": "assets/atlas/font.png",
+      "fontDataURL": "assets/atlas/yelFont.fnt"
+    },
+    {
+      "type": "html",
+      "key": "inviteForm",
+      "url": "assets/template/invite_list.html"
+    },
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "assets/atlas/animations.json"
+    }
+  ]},
+  "meta": {
+    "generated": "1635483112607",
+    "app": "Phaser Editor",
+    "url": "https://phasereditor2d.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2018"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.1",
+  "-version": 1,
+  "displayList": {
+    "-id": "8d715559-399d-42e9-9525-4a1dc0336b31",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "207663dd-5d4c-42b0-a158-76744223f9d3",
+        "-type": "Image",
+        "children": [],
+        "variableName": "background",
+        "variableField": false,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "background",
+        "textureFrame": "background"
+      },
+      {
+        "-id": "23d59a15-7835-4c26-96f4-42b88a044888",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "hero",
+        "variableField": true,
+        "active": false,
+        "data": {},
+        "x": 267.857177734375,
+        "y": 317.45745849609375,
+        "textureKey": "3pairs",
+        "textureFrame": "rwalk_00",
+        "autoPlayAnimKey": "walking_right"
+      },
+      {
+        "-id": "fd203ed0-e1da-4b4c-8e47-7f045f95d639",
+        "-type": "Sprite",
+        "children": [],
+        "variableName": "house",
+        "variableField": true,
+        "x": 529.3698120117188,
+        "y": 479.02117919921875,
+        "originX": 0,
+        "textureKey": "3pairs",
+        "textureFrame": "house"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "89eecac1-e75a-4225-a3ba-7ac59572410e",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderWidth": 1366,
+  "borderHeight": 768,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "village"
+}
